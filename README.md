@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ivan Stoikov.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/AwayFromKane)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/IvanStoikov07)
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/839514396573433948)](https://discord.com/users/839514396573433948)
